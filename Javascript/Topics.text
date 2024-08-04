@@ -1,0 +1,35 @@
+what is javascript
+let, const and var
+hoisting
+closure
+currying
+eventLoop
+rest
+spread
+prototype
+call,apply and bind
+
+
+
+React js
+
+JSX
+Element v/s component
+pure function
+state v/s props
+Vertual dom v/s real dom
+React fiber
+controlled and unControlled component
+createElement v/s cloneElement
+Lifting up
+HOC
+stateFull and stateLess component
+
+
+Flux
+Redux
+action
+reducer
+dispatch
+thunk and saga middleware
+

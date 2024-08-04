@@ -1,0 +1,11 @@
+let arr =[6,7,4,2,77,44]; //6
+let remEle = 3;
+for(let i=0;i<arr.length-1;i++){
+    if(i<remEle){
+        arr[i] = arr[i]
+    }else{
+        arr[i] = arr[i+1]
+    }
+}
+arr.length = arr.length-1
+console.log(arr)
